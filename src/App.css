@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+
+border: rgb(63, 58, 58) 2px solid;
+
+
+}
+body{
+  background-color: rgb(182, 93, 93);
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +43,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Profile{
+  margin: 20px;
+}
+.FullName{
+  margin: 20px;
+}
+.Adresse{
+  margin: 20px;
 }
